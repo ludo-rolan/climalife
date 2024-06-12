@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/rolandekalle/DEV-WORK-LUDO/WPK-PROJECTS/climalife'
+SRCDIR=. DATADIR=.  HTTPPORT=80 RESTART=no docker-compose -p climalife up
+make: Leaving directory `/Users/rolandekalle/DEV-WORK-LUDO/WPK-PROJECTS/climalife'
+ 
